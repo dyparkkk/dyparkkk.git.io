@@ -39,7 +39,7 @@ content:
           - JWT를 직접 구현해보고 싶어서 개발
           - Spring Security, Spring Data Redis 등 관심있던 프레임워크 적용
           - [코드 리펙토링](https://velog.io/@dyparkkk/series/securityjwtredis) 및 성능 테스트
-    content:
+
       - layout: left
         title: 맘카페 모바일 커뮤니티
         link: https://github.com/dyparkkk/woowa-backend
@@ -48,7 +48,7 @@ content:
           - 5명으로 이루어진 팀에서 <mark>팀장</mark>을 맡아서 기획, 일정관리, 기록 등의 역할을 맡음
           - API 문서화를 담당
           - 테스트코드 도입 예정
-    content:
+
       - layout: left
         title: 위치 기반 모바일 채팅 서비스
         link: https://github.com/dyparkkk/date_app_spring
@@ -58,11 +58,21 @@ content:
           - 투표, 평가하기 기능
           - [소개 영상](https://www.youtube.com/watch?v=O-puhurUpMU) 제작
 
-  - title: Self-development
-    layout: text
-    content: | 
-      '**바퀴를 다시 발명하지 마라**'라는 말처럼 누군가 이미 고민한 것을 이해하고 빠르게 습득하려고 노력함
+  # - title: Self-development
+  #   layout: text
+  #   content: | 
+  #     '**바퀴를 다시 발명하지 마라**'라는 말처럼 누군가 이미 고민한 것을 이해하고 빠르게 습득하려고 노력함
 
+  - title: Self-development
+    layout: list
+    content:
+      - layout: left
+        title: Today I Learned
+        link: https://github.com/dyparkkk/TIL
+        quote: > 
+          '**바퀴를 다시 발명하지 마라**'라는 말처럼 누군가 이미 고민한 것을 이해하고 빠르게 습득하려고 노력함
+        description: | 
+          - 오늘 공부한 것 기록
 
   - title: Skill
     layout: list
@@ -75,7 +85,7 @@ content:
           - JPA, Gradle
           - IntelliJ, Visual Studio Code
       - layout: left
-        title: Backend
+        title: DevOps
         description: |
           - MariaDB
           - AWS EC2, RDS
