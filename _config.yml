@@ -77,6 +77,9 @@ content:
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: 왜 안되냐....
+    layout: left
+
 
   - title: A Little More About M
     layout: text
@@ -86,13 +89,6 @@ content:
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-  - title: Learn
-    layout: text
-    content:
-      '바퀴를 다시 발명하지 마라' 라는 말처럼 누군가 이미 고민한 것을 빠르게 습득하려고 노력함  
-      - [Effective-Java](https://github.com/dyparkkk/TIL/blob/main/book/effective_Java.md)
-
 
 # Footer
 footer_show_references: true
