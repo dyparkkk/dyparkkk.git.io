@@ -69,6 +69,12 @@ content:
         caption: 2016.03 - 2022.02 졸
         sub_title: 컴퓨터공학 전공
 
+  - title: Study
+    layout: text
+    content: 
+      **바퀴를 다시 발명하지 마라** 라는 말처럼 누군가 이미 고민한 것을 빠르게 습득하려고 노력함
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -78,10 +84,6 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-  - title: study
-    layout: text
-    content: 
-      바퀴를 다시 발명하지 마라 라는 말처럼 누군가 이미 고민한 것을 빠르게 습득하려고 노력함
 
 
   - title: ABCDE
