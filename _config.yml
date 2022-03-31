@@ -64,7 +64,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: 홍익대학교
         caption: 2016.03 - 2022.02 졸
         sub_title: 컴퓨터공학 전공
@@ -86,6 +86,13 @@ content:
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  - title: Study
+    layout: text
+    content:
+      '바퀴를 다시 발명하지 마라' 라는 말처럼 누군가 이미 고민한 것을 빠르게 습득하려고 노력함  
+      - [Effective-Java](https://github.com/dyparkkk/TIL/blob/main/book/effective_Java.md)
+
 
 # Footer
 footer_show_references: true
