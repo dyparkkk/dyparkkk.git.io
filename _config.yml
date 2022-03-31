@@ -69,15 +69,15 @@ content:
       - layout: left
         title: Today I Learned
         link: https://github.com/dyparkkk/TIL
-        quote: > 
-          ' **바퀴를 다시 발명하지 마라** '라는 말처럼 누군가 이미 고민한 것을 이해하고 빠르게 습득하려고 노력함
         description: | 
           - 오늘 공부한 것 기록
       - layout: left
-        title: 
+        title: 책 공부
         # link: https://github.com/dyparkkk/TIL
+        quote: > 
+          **바퀴를 다시 발명하지 마라** 라는 말처럼 누군가 이미 고민한 것을 이해하고 빠르게 습득하려고 노력함
         description: | 
-          - 책공부
+          - content
     
   - title: Skill
     layout: list
@@ -103,10 +103,10 @@ content:
         caption: 2016.03 - 2022.02 졸
         sub_title: 컴퓨터공학 전공
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      작성중
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     작성중
 
     # Sample
   # - title:  # Title for the section
