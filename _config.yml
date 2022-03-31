@@ -78,8 +78,10 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-  - title: gkasdasdasd
-    layout: left
+  - title: study
+    layout: text
+    content: 
+      바퀴를 다시 발명하지 마라 라는 말처럼 누군가 이미 고민한 것을 빠르게 습득하려고 노력함
 
 
   - title: ABCDE
