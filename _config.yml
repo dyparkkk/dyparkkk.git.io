@@ -30,10 +30,10 @@ github_username:  dyparkkk
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,7 +50,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요 박도영입니다. 
 
-  Java 백엔드 엔지니어 지망생입니다. 
+  - test comment
+
+  ---
 
 content:
   - title: Projects # Title for the section
@@ -90,7 +92,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 홍익개학교
+        title: 홍익대학교
         caption: 2016.03 - 2022.02 졸
         sub_title: 컴퓨터공학 전공
         quote: >
