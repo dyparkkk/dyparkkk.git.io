@@ -32,15 +32,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: JWT Demo
-        link: github.com/dyparkkk/jwt-spring-security-demo
-        caption: 2022.02 ~ 2022.02
-        description: | # this will include new lines to allow paragraphs
-          - JWT를 직접 구현해보고 싶어서 개발
-          - Spring Security, Spring Data Redis 등 관심있던 프레임워크 적용
-          - [코드 리펙토링](https://velog.io/@dyparkkk/series/securityjwtredis) 및 성능 테스트
-
-      - layout: left
         title: 맘카페 모바일 커뮤니티
         link: https://github.com/dyparkkk/woowa-backend
         caption: 2022.03 ~ 진행중
@@ -48,6 +39,15 @@ content:
           - 5명으로 이루어진 팀에서 <mark>팀장</mark>을 맡아서 기획, 일정관리, 기록 등의 역할을 맡음
           - API 문서화를 담당
           - 테스트코드 도입 예정
+          
+      - layout: left
+        title: JWT Demo
+        link: github.com/dyparkkk/jwt-spring-security-demo
+        caption: 2022.02 ~ 2022.02
+        description: | # this will include new lines to allow paragraphs
+          - JWT를 직접 구현해보고 싶어서 개발
+          - Spring Security, Spring Data Redis 등 관심있던 프레임워크 적용
+          - [코드 리펙토링](https://velog.io/@dyparkkk/series/securityjwtredis) 및 성능 테스트
 
       - layout: left
         title: 위치 기반 모바일 채팅 서비스
