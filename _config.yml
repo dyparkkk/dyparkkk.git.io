@@ -58,11 +58,6 @@ content:
           - 투표, 평가하기 기능
           - [소개 영상](https://www.youtube.com/watch?v=O-puhurUpMU) 제작
 
-  # - title: Self-development
-  #   layout: text
-  #   content: | 
-  #     '**바퀴를 다시 발명하지 마라**'라는 말처럼 누군가 이미 고민한 것을 이해하고 빠르게 습득하려고 노력함
-
   - title: Self-development
     layout: list
     content:
@@ -72,12 +67,12 @@ content:
         description: | 
           - 오늘 공부한 것 기록
       - layout: left
-        title: 책 공부
+        title: Books
         # link: https://github.com/dyparkkk/TIL
         quote: > 
-          __바퀴를 다시 발명하지 마라__ 라는 말처럼 누군가 이미 고민한 것을 이해하고 빠르게 습득하려고 노력함
+          '바퀴를 다시 발명하지 마라'라는 말처럼 누군가 이미 고민한 것을 이해하고 빠르게 습득하려고 노력함
         description: | 
-          - content
+          - (Effective Java)[https://github.com/dyparkkk/TIL/blob/main/book/effective_Java.md]
     
   - title: Skill
     layout: list
