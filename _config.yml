@@ -64,19 +64,16 @@ content:
   - title: Study
     layout: text
     content:
-      '바퀴를 다시 발명하지 마라' 라는 말처럼 누군가 이미 고민한 것을 빠르게 습득하려고 노력함
+      '바퀴를 다시 발명하지 마라' 라는 말처럼 누군가 이미 고민한 것을 빠르게 습득하려고 노력함  
       - [Effective-Java](https://github.com/dyparkkk/TIL/blob/main/book/effective_Java.md)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
+      - layout: top-middle
         title: 홍익대학교
         caption: 2016.03 - 2022.02 졸
         sub_title: 컴퓨터공학 전공
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
 
   - title: A Little More About Me
     layout: text
