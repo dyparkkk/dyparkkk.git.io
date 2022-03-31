@@ -21,31 +21,25 @@ github_username:  dyparkkk
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring 기반으로 꾸준히 공부하고 있습니다.  
-  
-  새로운 기술을 학습에 그치지 않고 적용해보려고 끊임없이 시도해보고 있습니다.  
+  Java & Spring 기반의 백엔드 개발자를 목표로 하고 있습니다. 
+  새로운 기술을 학습에 그치지 않고 적용해보려고 끊임없이 시도하고 있습니다.  
+  개인의 성장도 중요하지만 <mark>회사와 팀을 위해</mark> 일하는 것이 프로라고 생각합니다. 
+  입사시 <mark>테스트 코드 작성</mark>과 <mark>리펙토링</mark>을 배워서 적용하고 싶습니다. 
 
-  ---
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      - layout: left
+        title: JWT Demo
+        link: github.com/dyparkkk/jwt-spring-security-demo
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          2021.03
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - JWT를 직접 구현해보고 싶어서 개발
+          - Spring Security, Spring Data Redis 등 관심있던 프레임워크 적용
+          - [코드 리펙토링](https://velog.io/@dyparkkk/series/securityjwtredis) 및 성능 테스트
 
   - title: Study
     layout: text
