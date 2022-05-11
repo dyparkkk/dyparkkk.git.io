@@ -18,6 +18,12 @@ darkmode: false
 # Social links
 github_username:  dyparkkk
 
+# Additional icon links
+additional_links:
+- title: resume
+  icon: fa-solid fa-book
+  url: https://dyparkkk.github.io/
+
 # About Section
 # about_title: About Me
 about_profile_image: images/pic06.jpg
