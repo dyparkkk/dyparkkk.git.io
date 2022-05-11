@@ -21,7 +21,7 @@ github_username:  dyparkkk
 # Additional icon links
 additional_links:
 - title: resume
-  icon: fa-solid fa-book
+  icon: fa-light fa-book
   url: https://dyparkkk.github.io/
 
 # About Section
