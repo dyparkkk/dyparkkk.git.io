@@ -7,9 +7,10 @@ version: 2
 
 # Personal info
 name: 박도영  
-title: Java 백엔드 엔지니어 신입
+title: 백엔드 엔지니어 신입
 email: dkdlel1z@naver.com
 website: https://velog.io/@dyparkkk
+origin: https://dyparkkk.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
