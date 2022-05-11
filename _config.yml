@@ -39,7 +39,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - 5명으로 이루어진 팀에서 <mark>팀장</mark>을 맡아서 기획, 일정관리, 기록 등의 역할을 맡음
           - API 문서화를 담당
-          - 서버 회원관리, 로그인 담당
+          - 회원관리, 로그인 개발
           
       - layout: left
         title: JWT Demo
