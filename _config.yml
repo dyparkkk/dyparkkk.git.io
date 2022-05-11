@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 박도영  
+name: [박도영](https://dyparkkk.github.io/)
 title: 백엔드 엔지니어 신입
 email: dkdlel1z@naver.com
 website: https://velog.io/@dyparkkk
@@ -18,11 +18,11 @@ darkmode: false
 # Social links
 github_username:  dyparkkk
 
-# Additional icon links
-additional_links:
-- title: resume
-  icon: fa-light fa-book
-  url: https://dyparkkk.github.io/
+# # Additional icon links
+# additional_links:
+# - title: resume
+#   icon: fa-light fa-book
+#   url: https://dyparkkk.github.io/
 
 # About Section
 # about_title: About Me
