@@ -66,18 +66,15 @@ content:
         title: Today I Learned
         link: https://github.com/dyparkkk/TIL
         description: | 
-          - 그날 공부한 것 기록
-          - 1일 1커밋
+          - 공부한 것 기록
+          - 양질의 서적에서 리소스를 얻음
       - layout: left
-        title: Books
-        link: https://github.com/dyparkkk/TIL/tree/main/book
+        title: blog
+        link: https://velog.io/@dyparkkk
         quote: > 
-          '바퀴를 다시 발명하지 마라'라는 말처럼 누군가 이미 고민한 것을 이해하고 빠르게 습득하려고 노력함
+          개발의 과정을 기록
         description: | 
-          - [Effective Java 3/E](https://github.com/dyparkkk/TIL/blob/main/book/effective_Java.md)
-          - 객체지향의 사실과 오해
-          - 오브젝트 - 조용호
-          - DDD-START! - 최범균
+          - 어떤 부분을 신경써서 개발 했는지, 개선하려고 했는지
     
   - title: Skill
     layout: list
